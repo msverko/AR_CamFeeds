@@ -1,0 +1,31 @@
+Source;TagName;EngUnits;Comment
+Source1-wonderware;SFT_BA_LOOPER_F12_UNLCK_EMG;;Safety unlock emg.
+Source1-wonderware;SFT_BA_LOOPER_F23_UNLCK_EMG;;Safety unlock emg.
+Source1-wonderware;SFT_BA_LOOPER_F34_UNLCK_EMG;;Safety unlock emg.
+Source1-wonderware;SFT_BA_LOOPER_F45_UNLCK_EMG;;Safety unlock emg.
+Source1-wonderware;SFT_BA_LOOPER_F56_UNLCK_EMG;;Safety unlock emg.
+Source1-wonderware;LOOPER_F12_ANGLE_REF;deg.;Angle ref.
+Source1-wonderware;LOOPER_F12_ANGLE_ACT;deg.;Angle act.
+Source1-wonderware;LOOPER_F12_VLV_REF;%;Valve ref.
+Source1-wonderware;LOOPER_F12_VLV_ACT;%;Valve act.
+Source1-wonderware;LOOPER_F12_FORCE;kN;Force
+Source1-wonderware;LOOPER_F23_ANGLE_REF;deg.;Angle ref.
+Source1-wonderware;LOOPER_F23_ANGLE_ACT;deg.;Angle act.
+Source1-wonderware;LOOPER_F23_VLV_REF;%;Valve ref.
+Source1-wonderware;LOOPER_F23_VLV_ACT;%;Valve act.
+Source1-wonderware;LOOPER_F23_FORCE;kN;Force
+Source1-wonderware;LOOPER_F34_ANGLE_REF;deg.;Angle ref.
+Source1-wonderware;LOOPER_F34_ANGLE_ACT;deg.;Angle act.
+Source1-wonderware;LOOPER_F34_VLV_REF;%;Valve ref.
+Source1-wonderware;LOOPER_F34_VLV_ACT;%;Valve act.
+Source1-wonderware;LOOPER_F34_FORCE;kN;Force
+Source1-wonderware;LOOPER_F45_ANGLE_REF;deg.;Angle ref.
+Source1-wonderware;LOOPER_F45_ANGLE_ACT;deg.;Angle act.
+Source1-wonderware;LOOPER_F45_VLV_REF;%;Valve ref.
+Source1-wonderware;LOOPER_F45_VLV_ACT;%;Valve act.
+Source1-wonderware;LOOPER_F45_FORCE;kN;Force
+Source1-wonderware;LOOPER_F56_ANGLE_REF;deg.;Angle ref.
+Source1-wonderware;LOOPER_F56_ANGLE_ACT;deg.;Angle act.
+Source1-wonderware;LOOPER_F56_VLV_REF;%;Valve ref.
+Source1-wonderware;LOOPER_F56_VLV_ACT;%;Valve act.
+Source1-wonderware;LOOPER_F56_FORCE;kN;Force
