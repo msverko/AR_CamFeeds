@@ -10,6 +10,7 @@ config.ini
 
 DB.csv
 - HMI database export (generated using Wonderware SCADA-native DB export tool, with ";" set as a list separator).
+
 Output1.csv
 - Tag list extracted from the DB.csv.
 - This file contains all the tags available in SQL db (those with "Logged" set to "Yes" in DB.csv).
