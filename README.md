@@ -14,6 +14,7 @@ Output1.csv
 - Tag list extracted from the DB.csv.
 - This file contains all the tags available in SQL db (those with "Logged" set to "Yes" in DB.csv).
 - Each tag extracted from the DB.csv is linked to it's source (SCADA type).
+
 TagList.ini 
 - Tags selected from the GUI sorted by source db (these tag values will be displayed on the camera feed as a data stream).
 
