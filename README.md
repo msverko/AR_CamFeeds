@@ -7,6 +7,7 @@ config.ini
 - SCADA type selection (currently, only AVEVA Wonderware).
 - SQL database connection parameters.
 - link to public cameras (for testing only).
+
 DB.csv
 - HMI database export (generated using Wonderware SCADA-native DB export tool, with ";" set as a list separator).
 Output1.csv
